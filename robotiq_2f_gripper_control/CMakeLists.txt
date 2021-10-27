@@ -9,6 +9,8 @@ find_package(catkin REQUIRED
     actionlib_msgs 
     actionlib
     robotiq_2f_gripper_msgs
+    sensor_msgs
+    control_msgs
   COMPONENTS
     roscpp
     rospy

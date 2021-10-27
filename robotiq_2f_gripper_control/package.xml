@@ -26,6 +26,11 @@
   <exec_depend>actionlib</exec_depend>
   <exec_depend>actionlib_msgs</exec_depend>
 
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>control_msgs</build_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>control_msgs</exec_depend>
+
   <depend>robotiq_2f_gripper_msgs</depend>
 
 </package>
